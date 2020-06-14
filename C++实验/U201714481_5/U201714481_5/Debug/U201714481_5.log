@@ -1,0 +1,44 @@
+﻿  U201714481_5.cpp
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(73): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(299): warning C4101: “p”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(299): warning C4101: “q”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(299): warning C4101: “r”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(351): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 参见“INFINITY”的前一个定义
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(373): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(374): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(398): warning C4101: “j”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(540): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(542): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(550): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(551): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(552): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(553): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(562): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(575): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(614): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(621): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(471): warning C4101: “y”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(467): warning C4101: “s”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(471): warning C4101: “x”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(525): warning C4101: “y”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(525): warning C4101: “x”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(656): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(662): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(668): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(706): warning C4101: “station”: 未引用的局部变量
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(740): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(741): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(742): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\ypzhang\desktop\u201714481_5\u201714481_5\u201714481_5.cpp(735): warning C4101: “m”: 未引用的局部变量
+  U201714481_5.vcxproj -> C:\Users\ypzhang\Desktop\U201714481_5\Debug\U201714481_5.exe

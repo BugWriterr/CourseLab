@@ -1,0 +1,13 @@
+﻿  U201714481_1.cpp
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(112): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(167): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(155): warning C4715: “size”: 不是所有的控件路径都返回值
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(160): warning C4715: “howMany”: 不是所有的控件路径都返回值
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(170): warning C4715: “getelem”: 不是所有的控件路径都返回值
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(190): warning C4715: “pop”: 不是所有的控件路径都返回值
+c:\users\ypzhang\desktop\u201714481_1\u201714481_1\u201714481_1.cpp(180): warning C4715: “push”: 不是所有的控件路径都返回值
+  U201714481_1.vcxproj -> C:\Users\ypzhang\Desktop\U201714481_1\Debug\U201714481_1.exe
