@@ -1,0 +1,109 @@
+(int, INT)
+(main, ID)
+((,LP)
+(),RP)
+(\n,EOL)
+({,LC)
+(\n,EOL)
+(int, INT)
+(a, ID)
+([,LB)
+(10, INT)
+(],RB)
+([,LB)
+(20, INT)
+(],RB)
+([,LB)
+(30, INT)
+(],RB)
+(;,SEMI)
+(\n,EOL)
+(int, INT)
+(i, ID)
+(,,COMMA)
+(j, ID)
+(,,COMMA)
+(k, ID)
+(;,SEMI)
+(\n,EOL)
+(a, ID)
+([,LB)
+(i, ID)
+(],RB)
+([,LB)
+(j, ID)
+(],RB)
+([,LB)
+(k, ID)
+(],RB)
+(=,ASSIGN)
+(200, INT)
+(;,SEMI)
+(\n,EOL)
+(return, RETURN)
+(1, INT)
+(;,SEMI)
+(\n,EOL)
+(},RC)
+ 函数定义：(7)
+   类型： int
+   函数名：main
+      无参函数
+   复合语句：(7)
+      复合语句的变量定义部分：
+         局部变量定义：(3)
+            类型： int
+            变量名：
+            数组名:a
+              维数:
+              INT：10
+              INT：20
+              INT：30
+         局部变量定义：(4)
+            类型： int
+            变量名：
+                   i
+                   j
+                   k
+      复合语句的语句部分：
+         表达式语句：(5)
+               =
+               访问数组：(5)
+               数组名：a
+               数组下标:
+                     ID： i
+                     ID： j
+                     ID： k
+               INT：200
+         返回语句：(6)
+            INT：1
+第二维的别名:v5v2[temp1]
+  变量名  别名   层号   类型  标记  偏移量
+  read             0     int    F      4
+ write             0     int    F      4
+     x             1     int    P     12
+  main     v1      0     int    F      0
+     a     v2      1     int    A     12
+数组信息:
+  下界  上界  大小
+     0     9    10
+     0    19    20
+     0    29    30
+     i     v3      1     int    V     16
+     j     v4      1     int    V     20
+     k     v5      1     int    V     24
+       v2[temp1]      1     int    T     12
+        temp2      1     int    T     28
+        temp3      1     int    T     28
+
+FUNCTION main :
+  temp1 := v3
+  temp1 := temp1 * #20
+  temp1 := temp1 + v4
+  temp1 := temp1 * #30
+  temp1 := temp1 + v5
+  temp2 := #200
+  v2[temp1] := temp2
+  temp3 := #1
+  RETURN temp3
+LABEL label1 :
