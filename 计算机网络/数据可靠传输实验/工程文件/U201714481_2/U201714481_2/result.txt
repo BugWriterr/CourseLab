@@ -1,0 +1,1045 @@
+
+
+窗口移动了1个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了0个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了3个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了0个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了3个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了3个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了0个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了4个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了1个单位
+
+NOW BASE=0
+
+
+窗口移动了1个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了0个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了2个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了0个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了3个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了0个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了1个单位
+
+NOW BASE=0
+
+
+窗口移动了1个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了4个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了1个单位
+
+NOW BASE=0
+
+
+窗口移动了1个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了4个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了0个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了0个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了0个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了2个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了0个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了0个单位
+
+NOW BASE=2
+
+
+窗口移动了0个单位
+
+NOW BASE=2
+
+
+窗口移动了3个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了1个单位
+
+NOW BASE=0
+
+
+窗口移动了1个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了0个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了4个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了4个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了0个单位
+
+NOW BASE=6
+
+
+窗口移动了3个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了3个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了0个单位
+
+NOW BASE=2
+
+
+窗口移动了0个单位
+
+NOW BASE=2
+
+
+窗口移动了3个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了3个单位
+
+NOW BASE=0
+
+
+窗口移动了1个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了1个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了2个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了0个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了1个单位
+
+NOW BASE=0
+
+
+窗口移动了1个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了1个单位
+
+NOW BASE=3
+
+
+窗口移动了0个单位
+
+NOW BASE=3
+
+
+窗口移动了2个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了0个单位
+
+NOW BASE=5
+
+
+窗口移动了4个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了0个单位
+
+NOW BASE=1
+
+
+窗口移动了3个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了0个单位
+
+NOW BASE=7
+
+
+窗口移动了2个单位
+
+NOW BASE=1
+
+
+窗口移动了1个单位
+
+NOW BASE=2
+
+
+窗口移动了0个单位
+
+NOW BASE=2
+
+
+窗口移动了2个单位
+
+NOW BASE=4
+
+
+窗口移动了1个单位
+
+NOW BASE=5
+
+
+窗口移动了1个单位
+
+NOW BASE=6
+
+
+窗口移动了1个单位
+
+NOW BASE=7
+
+
+窗口移动了1个单位
+
+NOW BASE=0
+
+
+窗口移动了1个单位
+
+NOW BASE=1
